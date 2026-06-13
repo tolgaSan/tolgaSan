@@ -5,10 +5,8 @@ I study Computer Science and build practical IT projects around web development,
 My focus is on systems that are understandable, maintainable, and useful in real workflows — not just demos.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolgaSan&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tolgaSan&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
-
-
 
 ## What I work on
 

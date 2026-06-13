@@ -4,8 +4,15 @@ I study Computer Science and build practical IT projects around web development,
 
 My focus is on systems that are understandable, maintainable, and useful in real workflows — not just demos.
 
+## Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tolgaSan&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolgaSan&theme=transparent" alt="GitHub activity summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tolgaSan&theme=transparent&utcOffset=2" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tolgaSan&theme=transparent" alt="Repos per language" />
 </p>
 
 ## What I work on

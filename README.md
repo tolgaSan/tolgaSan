@@ -10,10 +10,6 @@ My focus is on systems that are understandable, maintainable, and useful in real
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolgaSan&theme=github_dark" alt="GitHub activity summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=tolgaSan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution stats" />
-</p>
-
 ## What I work on
 
 - Web development and technical portfolio work

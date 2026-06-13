@@ -4,6 +4,12 @@ I study Computer Science and build practical IT projects around web development,
 
 My focus is on systems that are understandable, maintainable, and useful in real workflows — not just demos.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tolgaSan&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+
+
 ## What I work on
 
 - Web development and technical portfolio work
@@ -13,27 +19,40 @@ My focus is on systems that are understandable, maintainable, and useful in real
 - IT infrastructure basics such as domains, hosting, DNS, mail setup, and documentation
 - Data handling with CSV, Excel, pandas, and small analysis workflows
 
-## Current projects
+## Current focus
+
+- FadenWerk — native macOS writing studio for novelists
+- Tessera — local-first personal organizer and review-first productivity app
+- Sanlytech — personal technical brand, portfolio, and service work
+- Zero Trust / Anomaly Detection — university cybersecurity project
+
+## Projects
+
+### FadenWerk
+A macOS-first writing studio for novelists.
+
+FadenWerk combines manuscript writing, chapter and scene organization, character records, lore notes, plot threads, wiki-style links, and Markdown/DOCX export in a local-first project format.
+
+Tech: SwiftUI, SwiftPM, Markdown, SQLite, local-first architecture.
 
 ### Tessera
+A local-first personal organizer focused on calendar-centered workflows, review-before-write interactions, screenshot/OCR import, private data handling, and clear provenance.
 
-A local-first personal organizer and second-brain app.
-
-The idea is to combine calendar-centered planning, review flows, screenshot/OCR import, local notes, memory-like structures, and clear user confirmation before important writes.
-
-Core principles:
-
-- Local-first by default
-- Private personal data handling
-- Calendar as the operational center
-- Review-before-write for sensitive actions
-- Clear state and provenance instead of hidden automation
+Tech: SwiftUI, EventKit, local encrypted storage, OCR workflows.
 
 ### Sanlytech
 
 My personal technical presence and service-oriented brand.
 
 It is used to document projects, technical decisions, small tools, learning progress, and possible freelance services around websites, automation, and IT setup.
+
+### BIBO / bibo.deals
+A commerce project around Shopify storefront structure, theme adaptation, preorder workflows, and a clear rollout plan for a small business.
+
+Focus areas: Shopify structure, storefront UX, documentation, and practical handover.
+
+### Product Risk Checker
+A planned consumer app for checking products against ingredient, pesticide, allergen, ethical, and user-defined risk rules using public product and safety databases.
 
 ### Anomaly detection - Zero Trust / Cybersecurity
 
@@ -73,10 +92,6 @@ Good software should be:
 - Easy to test and inspect
 - Useful before it is visually perfect
 
-## Featured directions
-
-I am currently building and learning in these directions:
-
 | Area | What I am exploring |
 |---|---|
 | Local-first apps | Personal data, private workflows, calendar-centered tools |
@@ -88,14 +103,6 @@ I am currently building and learning in these directions:
 ## Selected repositories
 
 I use GitHub to document projects, experiments, and technical progress.
-
-Recommended pinned repositories:
-
-- `tessera` — local-first personal organizer
-- `sanlytech` — personal website / technical presence
-- `Anomaly detection/zero-trust-project` — university cybersecurity project documentation
-- `automation-scripts` — small practical scripts and workflow helpers
-- `data-practice` — pandas, CSV, Excel, and analysis exercises
 
 ## Contact
 

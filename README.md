@@ -10,11 +10,6 @@ My focus is on systems that are understandable, maintainable, and useful in real
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tolgaSan&theme=transparent" alt="GitHub activity summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tolgaSan&theme=transparent&utcOffset=2" alt="Productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tolgaSan&theme=transparent" alt="Repos per language" />
-</p>
-
 ## What I work on
 
 - Web development and technical portfolio work

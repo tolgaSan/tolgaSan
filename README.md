@@ -14,6 +14,8 @@ Web-first and reachable from any device, with a macOS app as a first-class offli
 client: write on a flight, sync when you reconnect. Your prose stays yours — open
 Markdown that round-trips losslessly, never locked in.
 
+Try it out on [fadenwerk.sanlytech.de](https://fadenwerk.sanlytech.de)
+
 ## Other work
 
 - **Tessera** — a local-first organizer built around your calendar. Reviews what it
